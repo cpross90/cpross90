@@ -7,7 +7,7 @@ From October 2009 to Feburary 2015 I served in the United States Air Force. I sp
 
 While at Seattle University I worked with faculty and peers on several projects. My undergraduate thesis for applied mathematics is where a considerable amount of hours were invested into water wave research outside of class hours. For my computer science senior project, I worked with three other peers to assist the vice-president of supplier quality to implement a knowledgebase system to track and enforce best practices across offices and remote sites. My data modeling and visualizations courses assisted the local non-profits El Centro de la Raza and Real Change to consolidate data, use statistical models to address business goals, and group and visualize various statistics on customer trends.
 
-### Currently Working On
+#### Currently Working On
 - Finalizing and optimizing water wave research code
 - Creating a personal website
 
