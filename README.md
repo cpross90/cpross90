@@ -15,6 +15,6 @@ While at Seattle University I worked with faculty and peers on several projects.
 
 #### Projects
 - PACCAR Knowledgebase Search Engine
-- Nontrivial Time-Periodic Solutions to the Whitham Equation
+- [Nontrivial Time-Periodic Solutions to the Whitham Equation](https://github.com/cpross90/cpross90/blob/main/NTTP_Whitham.pdf)
 - El Centro de la Raza & Real Change
 - [Machine Learning Models to Predict DotA2 Matches](https://github.com/jroscoe5/CS4910-FinalProject)
