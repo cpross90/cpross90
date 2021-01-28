@@ -17,4 +17,4 @@ While at Seattle University I worked with faculty and peers on several projects.
 - PACCAR Knowledgebase Search Engine
 - Nontrivial Time-Periodic Solutions to the Whitham Equation
 - El Centro de la Raza & Real Change
-- Machine Learning Models to Predict DotA2 Matches
+- [Machine Learning Models to Predict DotA2 Matches](https://github.com/jroscoe5/CS4910-FinalProject)
