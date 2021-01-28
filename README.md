@@ -13,7 +13,7 @@ While at Seattle University I worked with faculty and peers on several projects.
 - CHIP-8 emulator
 - Creating a personal portfolio website
 
-#### Projects
+#### Past Projects
 - PACCAR Knowledgebase Search Engine
 - [Nontrivial Time-Periodic Solutions to the Whitham Equation](https://github.com/cpross90/cpross90/blob/main/NTTP_Whitham.pdf)
 - El Centro de la Raza & Real Change
