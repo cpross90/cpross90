@@ -7,6 +7,8 @@ From October 2009 to Feburary 2015 I served in the United States Air Force. I sp
 
 While at Seattle University I worked with faculty and peers on several projects. My undergraduate thesis for applied mathematics is where a considerable amount of hours were invested into nonlinear water wave research outside of class hours. For my computer science senior project, I worked with three other peers to assist the vice-president of supplier quality to implement a knowledgebase system to track and enforce best practices across offices and remote sites. My data modeling and visualizations courses assisted the local non-profits El Centro de la Raza and Real Change to consolidate data, use statistical models to address business goals, and visualize consolidated information using various statistics on customer trends.
 
+Checkout my [résumé](https://github.com/cpross90/cpross90/blob/main/GitHub_Resume.pdf)!
+
 #### Currently Working On
 - Attending Microsoft Software and Systems Academy
 - Finalizing and optimizing nonlinear water wave research code
